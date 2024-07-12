@@ -13,3 +13,6 @@ Crawl the Web within your terminal!
 
 * List pages within a domain
 * List SEO statistics such as internal links and external links for each page
+
+## Homages
+Kudos to [boot.dev](https://www.boot.dev/learn/build-web-crawler-javascript) for the amazing guide and idea!
